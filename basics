@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html  lang="en">
+	<head>
+		<title>spotify</title>.
+	</head>
+	<body>
+		<h1>H1 is for the <b>main title</b></h1>
+		<h2>H2 is for the <strong>subtitle</strong></h2>
+		<p>P is for pharagraphs</p>
+		<p>BR Tag is for creating space between pharagraphs </p>
+		<p>HR Tag is for creating an horizontal line </p>
+
+	</body>
+</html>
