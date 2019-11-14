@@ -1,0 +1,23 @@
+.foot{
+	background-color: black;
+	color: white;
+}
+
+.index{
+	background-image: url("../img/bgimage.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	
+}
+
+div{
+	background-color: white;
+}
+
+.canada{ height: 15px;
+	width: 20px;
+
+
+}
