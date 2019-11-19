@@ -1,0 +1,19 @@
+p:nth-of-type(odd) {
+			background: violet;
+		}
+
+p:nth-of-type(even) {
+			background: tomato;
+		}
+.wrapper div:nth-of-type(2n+1) {
+	background: #388E8E
+}
+
+div.position{
+	width: 100px;
+	
+	border: 10px solid 	#FF8C00;
+	padding: 50px 40px 30px 20px;
+	background-color: #C1FFC1;
+	margin: 0 auto;
+}
